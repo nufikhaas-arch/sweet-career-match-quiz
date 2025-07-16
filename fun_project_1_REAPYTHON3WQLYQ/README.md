@@ -30,7 +30,7 @@ Just for fun! You answer a few questions, and based on your choices, you’ll ge
 
 You can try the quiz online — no need to install anything!
 
-👉 [Click here to launch the app](https://your-streamlit-link.streamlit.app)
+👉 [Click here to launch the app](https://sweet-career-match-quiz.streamlit.app/)
 
 Or... if you want to run it locally:
 
